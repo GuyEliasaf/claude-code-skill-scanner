@@ -26,7 +26,7 @@ Download skill → staging/ → Hook triggers scan → Clean? → .claude/skills
 ### 1. Clone the repository into your project
 
 ```bash
-git clone https://github.com/<your-username>/claude-code-skill-scanner.git .claude
+git clone https://github.com/GuyEliasaf/claude-code-skill-scanner.git 
 ```
 
 Or copy the `.claude/` folder into your project root.
